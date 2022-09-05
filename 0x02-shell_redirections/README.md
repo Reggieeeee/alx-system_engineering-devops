@@ -1,2 +1,1 @@
-#!/bin/bash
-echo “Hello, World”
+ite commands for shell redirections
